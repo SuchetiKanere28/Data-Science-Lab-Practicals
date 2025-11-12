@@ -1,1 +1,1 @@
-## Data Science Lab Practicals
+**Data Science Lab Practicals**
